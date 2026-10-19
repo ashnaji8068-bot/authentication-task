@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "email": "john@example.com",
+      "password": "password123",
+      "fullName": "John Doe",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop",
+      "createdAt": "2026-02-17T10:00:00Z"
+    },
+    {
+      "username": "1234",
+      "fullName": "abcd",
+      "email": "1234@gmail.com",
+      "password": "123456",
+      "createdAt": "2026-10-15T10:49:57.726Z",
+      "id": "8Wd1aTEpAPI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
